@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## 📱 Devices in use
 
-[![iPhone12](https://img.shields.io/badge/iPhone12?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.po.co/global/iPhone12/)
+[![iPhone12](https://img.shields.io/badge/iPhone%2012%20-fd4900?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/shop/buy-iphone/iphone-12)
 
 
 ![ReadmeStats-Image](https://github-readme-stats.vercel.app/api/top-langs/?username=liwenfengg&layout=compact)
